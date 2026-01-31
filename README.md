@@ -27,7 +27,7 @@ The model shows strong convergence with the following accuracy and loss curves:
 
 ##  Repository Structure
 - `celebrity_recognition.ipynb`: Cleaned source code and model architecture.
-- `Project_Report.pdf`: Full detailed analysis, methodology, and final results.
+- `Computer vision project.pdf`: Full detailed analysis, methodology, and final results.
 - `requirements.txt`: List of Python libraries required to reproduce the environment.
 
 ##  How to Use
