@@ -18,12 +18,12 @@ The goal of this project is to recognize various celebrities from a dataset. By 
 > **Note: Because the Jupyter Notebook output was cleared to ensure fast loading on GitHub, please refer to the screenshots below or the included PDF report.
 
 ### 1. Model in Action
-*(A screenshot of your code identifying a celebriy face correctly is here)*
-![Recognition Result](./result_preview.png)
+*(A screenshot of who our code identifying a celebriy face correctly is here)*
+![Recognition Result](result_preview.png)
 
 ### 2. Performance Graphs
 The model shows strong convergence with the following accuracy and loss curves:
-![Accuracy Curve](./accuracy_plot.png)
+![Accuracy Curve](accuracy_plot.png)
 
 ## 📁 Repository Structure
 - `celebrity_recognition.ipynb`: Cleaned source code and model architecture.
