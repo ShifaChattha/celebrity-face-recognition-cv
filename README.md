@@ -18,7 +18,7 @@ The goal of this project is to recognize various celebrities from a dataset. By 
 > **Note: Because the Jupyter Notebook output was cleared to ensure fast loading on GitHub, please refer to the screenshots below or the included PDF report.
 
 ### 1. Model in Action
-*(Add a screenshot of your code identifying a face here)*
+*(A screenshot of your code identifying a celebriy face correctly is here)*
 ![Recognition Result](./result_preview.png)
 
 ### 2. Performance Graphs
