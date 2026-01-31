@@ -25,12 +25,12 @@ The goal of this project is to recognize various celebrities from a dataset. By 
 The model shows strong convergence with the following accuracy and loss curves:
 ![Accuracy Curve](./accuracy_plot.png)
 
-## 📁 Repository Structure
+##  Repository Structure
 - `celebrity_recognition.ipynb`: Cleaned source code and model architecture.
 - `Project_Report.pdf`: Full detailed analysis, methodology, and final results.
 - `requirements.txt`: List of Python libraries required to reproduce the environment.
 
-## ⚙️ How to Use
+##  How to Use
 1. Clone this repository.
 2. Install dependencies:
    ```bash
