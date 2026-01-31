@@ -19,12 +19,11 @@ The goal of this project is to recognize various celebrities from a dataset. By 
 
 ### 1. Model in Action
 *(A screenshot of who our code identifying a celebriy face correctly is here)*
-![Recognition Result](result_preview.png)
+![Recognition Result](./result_preview.png)
 
 ### 2. Performance Graphs
 The model shows strong convergence with the following accuracy and loss curves:
-![Accuracy Curve](accuracy_plot.png
-)
+![Accuracy Curve](./accuracy_plot.png)
 
 ## 📁 Repository Structure
 - `celebrity_recognition.ipynb`: Cleaned source code and model architecture.
