@@ -23,7 +23,8 @@ The goal of this project is to recognize various celebrities from a dataset. By 
 
 ### 2. Performance Graphs
 The model shows strong convergence with the following accuracy and loss curves:
-![Accuracy Curve](accuracy_plot.png)
+![Accuracy Curve](accuracy_plot.png
+)
 
 ## 📁 Repository Structure
 - `celebrity_recognition.ipynb`: Cleaned source code and model architecture.
